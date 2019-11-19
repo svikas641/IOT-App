@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5847428436",
+    "firebase_url": "https://hibreed2.firebaseio.com",
+    "project_id": "hibreed2",
+    "storage_bucket": "hibreed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5847428436:android:d3ead24e4138b7aecf6cc1",
+        "android_client_info": {
+          "package_name": "com.example.hibreed2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5847428436-4q32iku202635dchuquj3krmfe2kigpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hibreed2",
+            "certificate_hash": "3c3fd623268a8abca7f778c97e3b463e3e73aa6a"
+          }
+        },
+        {
+          "client_id": "5847428436-6pspi56pr9ftrfqdlf4af6muh65hduet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVuz2icyGnOwDlDZMWsVkOjCgog43O2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5847428436-6pspi56pr9ftrfqdlf4af6muh65hduet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
